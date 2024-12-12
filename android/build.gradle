@@ -1,0 +1,61 @@
+// allprojects {
+//     repositories {
+//         google()
+//         mavenCentral()
+//     }
+// }
+
+// rootProject.buildDir = "../build"
+// subprojects {
+//     project.buildDir = "${rootProject.buildDir}/${project.name}"
+// }
+// subprojects {
+//     project.evaluationDependsOn(":app")
+// }
+
+// tasks.register("clean", Delete) {
+//     delete rootProject.buildDir
+// }
+
+buildscript {
+    ext.kotlin_version = '1.7.10'
+    repositories {
+        google()
+        mavenCentral()
+    }
+
+    dependencies {
+        classpath "org.jetbrains.kotlin:kotlin-gradle-plugin:$kotlin_version"
+    }
+}
+allprojects {
+     tasks.withType(org.jetbrains.kotlin.gradle.tasks.KotlinCompile).all {
+        kotlinOptions {
+            jvmTarget = "1.8" // Or use "17" if your Java version supports it
+        }
+    }
+    repositories {
+        google()
+        mavenCentral()
+    }
+}
+
+subprojects {
+    // Don't use afterEvaluate here as it causes the problem.
+    if (project.hasProperty("android")) {
+        android {
+            compileOptions {
+                sourceCompatibility = JavaVersion.VERSION_1_8
+                targetCompatibility = JavaVersion.VERSION_1_8
+            }
+
+            kotlinOptions {
+                jvmTarget = "1.8"
+            }
+        }
+    }
+}
+
+tasks.register("clean", Delete) {
+    delete rootProject.buildDir
+}

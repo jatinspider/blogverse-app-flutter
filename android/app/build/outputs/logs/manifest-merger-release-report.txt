@@ -1,0 +1,309 @@
+-- Merging decision tree log ---
+application
+INJECTED from C:\downloads\my proggraming\flutter\blogverse\android\app\src\main\AndroidManifest.xml:3:5-34:19
+MERGED from [:url_launcher_android] C:\Users\dbfan\AppData\Local\Pub\Cache\hosted\pub.dev\url_launcher_android-6.3.9\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:7:5-12:19
+MERGED from [:url_launcher_android] C:\Users\dbfan\AppData\Local\Pub\Cache\hosted\pub.dev\url_launcher_android-6.3.9\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:7:5-12:19
+MERGED from [androidx.window:window:1.0.0-beta04] C:\Users\dbfan\.gradle\caches\8.9\transforms\7b0e5f1c855adb3d663e2c810e7aceb8\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:24:5-31:19
+MERGED from [androidx.window:window:1.0.0-beta04] C:\Users\dbfan\.gradle\caches\8.9\transforms\7b0e5f1c855adb3d663e2c810e7aceb8\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:24:5-31:19
+MERGED from [androidx.core:core:1.13.1] C:\Users\dbfan\.gradle\caches\8.9\transforms\70b3f990f2a358ec7abe512f9d7bd339\transformed\core-1.13.1\AndroidManifest.xml:28:5-89
+MERGED from [androidx.core:core:1.13.1] C:\Users\dbfan\.gradle\caches\8.9\transforms\70b3f990f2a358ec7abe512f9d7bd339\transformed\core-1.13.1\AndroidManifest.xml:28:5-89
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\dbfan\.gradle\caches\8.9\transforms\9fb4a45843cc23ee3948d9068b41f069\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\dbfan\.gradle\caches\8.9\transforms\9fb4a45843cc23ee3948d9068b41f069\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\dbfan\.gradle\caches\8.9\transforms\5ca943682f7a7a45d4cf1c630ca2c47a\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\dbfan\.gradle\caches\8.9\transforms\5ca943682f7a7a45d4cf1c630ca2c47a\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\dbfan\.gradle\caches\8.9\transforms\4c5b1f9970c70172c2f070abbd224fd8\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\dbfan\.gradle\caches\8.9\transforms\4c5b1f9970c70172c2f070abbd224fd8\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.13.1] C:\Users\dbfan\.gradle\caches\8.9\transforms\70b3f990f2a358ec7abe512f9d7bd339\transformed\core-1.13.1\AndroidManifest.xml:28:18-86
+	android:label
+		ADDED from C:\downloads\my proggraming\flutter\blogverse\android\app\src\main\AndroidManifest.xml:4:9-34
+	android:icon
+		ADDED from C:\downloads\my proggraming\flutter\blogverse\android\app\src\main\AndroidManifest.xml:6:9-43
+	android:name
+		INJECTED from C:\downloads\my proggraming\flutter\blogverse\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\downloads\my proggraming\flutter\blogverse\android\app\src\main\AndroidManifest.xml:5:9-42
+manifest
+ADDED from C:\downloads\my proggraming\flutter\blogverse\android\app\src\main\AndroidManifest.xml:1:1-46:12
+INJECTED from C:\downloads\my proggraming\flutter\blogverse\android\app\src\main\AndroidManifest.xml:1:1-46:12
+INJECTED from C:\downloads\my proggraming\flutter\blogverse\android\app\src\main\AndroidManifest.xml:1:1-46:12
+INJECTED from C:\downloads\my proggraming\flutter\blogverse\android\app\src\main\AndroidManifest.xml:1:1-46:12
+MERGED from [:device_info_plus] C:\Users\dbfan\AppData\Local\Pub\Cache\hosted\pub.dev\device_info_plus-10.1.2\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:2:1-7:12
+MERGED from [:file_picker] C:\Users\dbfan\AppData\Local\Pub\Cache\hosted\pub.dev\file_picker-5.5.0\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:2:1-17:12
+MERGED from [:flutter_plugin_android_lifecycle] C:\Users\dbfan\AppData\Local\Pub\Cache\hosted\pub.dev\flutter_plugin_android_lifecycle-2.0.22\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:2:1-7:12
+MERGED from [:flutter_web_auth] C:\Users\dbfan\AppData\Local\Pub\Cache\hosted\pub.dev\flutter_web_auth-0.5.0\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:2:1-7:12
+MERGED from [:flutter_web_auth_2] C:\Users\dbfan\AppData\Local\Pub\Cache\hosted\pub.dev\flutter_web_auth_2-3.1.2\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:2:1-7:12
+MERGED from [:package_info_plus] C:\Users\dbfan\AppData\Local\Pub\Cache\hosted\pub.dev\package_info_plus-8.1.1\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:2:1-7:12
+MERGED from [:path_provider_android] C:\Users\dbfan\AppData\Local\Pub\Cache\hosted\pub.dev\path_provider_android-2.2.10\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:2:1-7:12
+MERGED from [:url_launcher_android] C:\Users\dbfan\AppData\Local\Pub\Cache\hosted\pub.dev\url_launcher_android-6.3.9\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:2:1-14:12
+MERGED from [androidx.window:window-java:1.0.0-beta04] C:\Users\dbfan\.gradle\caches\8.9\transforms\6132af5deeee7e29a56a30c78a7fdcd5\transformed\jetified-window-java-1.0.0-beta04\AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.window:window:1.0.0-beta04] C:\Users\dbfan\.gradle\caches\8.9\transforms\7b0e5f1c855adb3d663e2c810e7aceb8\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.browser:browser:1.8.0] C:\Users\dbfan\.gradle\caches\8.9\transforms\e82d88bd5da43dd629176ea510ee30e6\transformed\browser-1.8.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\dbfan\.gradle\caches\8.9\transforms\7e6e8efeac8fbb1e279e2933c8914b37\transformed\fragment-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\dbfan\.gradle\caches\8.9\transforms\acac827eaa5a7abaed64412e277bf44e\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\dbfan\.gradle\caches\8.9\transforms\a034f3baa95c4e1d25bc52fec16eac1c\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\dbfan\.gradle\caches\8.9\transforms\c3648329523830f84fa85b566054b33d\transformed\jetified-activity-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\dbfan\.gradle\caches\8.9\transforms\90f3a7b205f3b973ffb869b90947f387\transformed\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.13.1] C:\Users\dbfan\.gradle\caches\8.9\transforms\70b3f990f2a358ec7abe512f9d7bd339\transformed\core-1.13.1\AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.2] C:\Users\dbfan\.gradle\caches\8.9\transforms\a14c068807afd063dbdcaaff29dc996a\transformed\lifecycle-livedata-core-2.6.2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.2] C:\Users\dbfan\.gradle\caches\8.9\transforms\0dd7080b2eade91e41a1ef37bf793efd\transformed\lifecycle-livedata-2.6.2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.2] C:\Users\dbfan\.gradle\caches\8.9\transforms\34b565954a605bf789fde76e27a88863\transformed\lifecycle-viewmodel-2.6.2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.2] C:\Users\dbfan\.gradle\caches\8.9\transforms\15ee0cc20d2b4e8b4d44bfa462f936cb\transformed\lifecycle-runtime-2.6.2\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\dbfan\.gradle\caches\8.9\transforms\3cc97ebfe7744cdd25221276d629719a\transformed\jetified-savedstate-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\dbfan\.gradle\caches\8.9\transforms\9fb4a45843cc23ee3948d9068b41f069\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:17:1-55:12
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\dbfan\.gradle\caches\8.9\transforms\5ca943682f7a7a45d4cf1c630ca2c47a\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\dbfan\.gradle\caches\8.9\transforms\ae0ee6bb1706b3c0bca772088b488e23\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\dbfan\.gradle\caches\8.9\transforms\cafdbbf9d8bab897876ac8899bd47d90\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\dbfan\.gradle\caches\8.9\transforms\4c5b1f9970c70172c2f070abbd224fd8\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\dbfan\.gradle\caches\8.9\transforms\fadf5532e2648a32156659da2b19d844\transformed\core-runtime-2.2.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.4.0] C:\Users\dbfan\.gradle\caches\8.9\transforms\08917794067ca257c1b3579abb95d434\transformed\jetified-annotation-experimental-1.4.0\AndroidManifest.xml:2:1-7:12
+INJECTED from C:\downloads\my proggraming\flutter\blogverse\android\app\src\main\AndroidManifest.xml:1:1-46:12
+INJECTED from C:\downloads\my proggraming\flutter\blogverse\android\app\src\main\AndroidManifest.xml:1:1-46:12
+INJECTED from C:\downloads\my proggraming\flutter\blogverse\android\app\src\main\AndroidManifest.xml:1:1-46:12
+	package
+		INJECTED from C:\downloads\my proggraming\flutter\blogverse\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\downloads\my proggraming\flutter\blogverse\android\app\src\main\AndroidManifest.xml:1:1-46:12
+		INJECTED from C:\downloads\my proggraming\flutter\blogverse\android\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\downloads\my proggraming\flutter\blogverse\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\downloads\my proggraming\flutter\blogverse\android\app\src\main\AndroidManifest.xml:1:1-46:12
+		INJECTED from C:\downloads\my proggraming\flutter\blogverse\android\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\downloads\my proggraming\flutter\blogverse\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\downloads\my proggraming\flutter\blogverse\android\app\src\main\AndroidManifest.xml:1:1-46:12
+		INJECTED from C:\downloads\my proggraming\flutter\blogverse\android\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\downloads\my proggraming\flutter\blogverse\android\app\src\main\AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\downloads\my proggraming\flutter\blogverse\android\app\src\main\AndroidManifest.xml:2:13-74
+	android:name
+		ADDED from C:\downloads\my proggraming\flutter\blogverse\android\app\src\main\AndroidManifest.xml:2:30-72
+queries
+ADDED from C:\downloads\my proggraming\flutter\blogverse\android\app\src\main\AndroidManifest.xml:40:5-45:15
+MERGED from [:file_picker] C:\Users\dbfan\AppData\Local\Pub\Cache\hosted\pub.dev\file_picker-5.5.0\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:9:5-15:15
+MERGED from [:file_picker] C:\Users\dbfan\AppData\Local\Pub\Cache\hosted\pub.dev\file_picker-5.5.0\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:9:5-15:15
+intent#action:name:android.intent.action.PROCESS_TEXT+data:mimeType:text/plain
+ADDED from C:\downloads\my proggraming\flutter\blogverse\android\app\src\main\AndroidManifest.xml:41:9-44:18
+action#android.intent.action.PROCESS_TEXT
+ADDED from C:\downloads\my proggraming\flutter\blogverse\android\app\src\main\AndroidManifest.xml:42:13-72
+	android:name
+		ADDED from C:\downloads\my proggraming\flutter\blogverse\android\app\src\main\AndroidManifest.xml:42:21-70
+data
+ADDED from C:\downloads\my proggraming\flutter\blogverse\android\app\src\main\AndroidManifest.xml:43:13-50
+	android:mimeType
+		ADDED from C:\downloads\my proggraming\flutter\blogverse\android\app\src\main\AndroidManifest.xml:43:19-48
+uses-sdk
+INJECTED from C:\downloads\my proggraming\flutter\blogverse\android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\downloads\my proggraming\flutter\blogverse\android\app\src\main\AndroidManifest.xml
+INJECTED from C:\downloads\my proggraming\flutter\blogverse\android\app\src\main\AndroidManifest.xml
+MERGED from [:device_info_plus] C:\Users\dbfan\AppData\Local\Pub\Cache\hosted\pub.dev\device_info_plus-10.1.2\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-44
+MERGED from [:device_info_plus] C:\Users\dbfan\AppData\Local\Pub\Cache\hosted\pub.dev\device_info_plus-10.1.2\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-44
+MERGED from [:file_picker] C:\Users\dbfan\AppData\Local\Pub\Cache\hosted\pub.dev\file_picker-5.5.0\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-44
+MERGED from [:file_picker] C:\Users\dbfan\AppData\Local\Pub\Cache\hosted\pub.dev\file_picker-5.5.0\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-44
+MERGED from [:flutter_plugin_android_lifecycle] C:\Users\dbfan\AppData\Local\Pub\Cache\hosted\pub.dev\flutter_plugin_android_lifecycle-2.0.22\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-44
+MERGED from [:flutter_plugin_android_lifecycle] C:\Users\dbfan\AppData\Local\Pub\Cache\hosted\pub.dev\flutter_plugin_android_lifecycle-2.0.22\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-44
+MERGED from [:flutter_web_auth] C:\Users\dbfan\AppData\Local\Pub\Cache\hosted\pub.dev\flutter_web_auth-0.5.0\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-44
+MERGED from [:flutter_web_auth] C:\Users\dbfan\AppData\Local\Pub\Cache\hosted\pub.dev\flutter_web_auth-0.5.0\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-44
+MERGED from [:flutter_web_auth_2] C:\Users\dbfan\AppData\Local\Pub\Cache\hosted\pub.dev\flutter_web_auth_2-3.1.2\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-44
+MERGED from [:flutter_web_auth_2] C:\Users\dbfan\AppData\Local\Pub\Cache\hosted\pub.dev\flutter_web_auth_2-3.1.2\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-44
+MERGED from [:package_info_plus] C:\Users\dbfan\AppData\Local\Pub\Cache\hosted\pub.dev\package_info_plus-8.1.1\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-44
+MERGED from [:package_info_plus] C:\Users\dbfan\AppData\Local\Pub\Cache\hosted\pub.dev\package_info_plus-8.1.1\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-44
+MERGED from [:path_provider_android] C:\Users\dbfan\AppData\Local\Pub\Cache\hosted\pub.dev\path_provider_android-2.2.10\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-44
+MERGED from [:path_provider_android] C:\Users\dbfan\AppData\Local\Pub\Cache\hosted\pub.dev\path_provider_android-2.2.10\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-44
+MERGED from [:url_launcher_android] C:\Users\dbfan\AppData\Local\Pub\Cache\hosted\pub.dev\url_launcher_android-6.3.9\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-44
+MERGED from [:url_launcher_android] C:\Users\dbfan\AppData\Local\Pub\Cache\hosted\pub.dev\url_launcher_android-6.3.9\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.window:window-java:1.0.0-beta04] C:\Users\dbfan\.gradle\caches\8.9\transforms\6132af5deeee7e29a56a30c78a7fdcd5\transformed\jetified-window-java-1.0.0-beta04\AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.window:window-java:1.0.0-beta04] C:\Users\dbfan\.gradle\caches\8.9\transforms\6132af5deeee7e29a56a30c78a7fdcd5\transformed\jetified-window-java-1.0.0-beta04\AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.window:window:1.0.0-beta04] C:\Users\dbfan\.gradle\caches\8.9\transforms\7b0e5f1c855adb3d663e2c810e7aceb8\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.window:window:1.0.0-beta04] C:\Users\dbfan\.gradle\caches\8.9\transforms\7b0e5f1c855adb3d663e2c810e7aceb8\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.browser:browser:1.8.0] C:\Users\dbfan\.gradle\caches\8.9\transforms\e82d88bd5da43dd629176ea510ee30e6\transformed\browser-1.8.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.browser:browser:1.8.0] C:\Users\dbfan\.gradle\caches\8.9\transforms\e82d88bd5da43dd629176ea510ee30e6\transformed\browser-1.8.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\dbfan\.gradle\caches\8.9\transforms\7e6e8efeac8fbb1e279e2933c8914b37\transformed\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\dbfan\.gradle\caches\8.9\transforms\7e6e8efeac8fbb1e279e2933c8914b37\transformed\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\dbfan\.gradle\caches\8.9\transforms\acac827eaa5a7abaed64412e277bf44e\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\dbfan\.gradle\caches\8.9\transforms\acac827eaa5a7abaed64412e277bf44e\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\dbfan\.gradle\caches\8.9\transforms\a034f3baa95c4e1d25bc52fec16eac1c\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\dbfan\.gradle\caches\8.9\transforms\a034f3baa95c4e1d25bc52fec16eac1c\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\dbfan\.gradle\caches\8.9\transforms\c3648329523830f84fa85b566054b33d\transformed\jetified-activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\dbfan\.gradle\caches\8.9\transforms\c3648329523830f84fa85b566054b33d\transformed\jetified-activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\dbfan\.gradle\caches\8.9\transforms\90f3a7b205f3b973ffb869b90947f387\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\dbfan\.gradle\caches\8.9\transforms\90f3a7b205f3b973ffb869b90947f387\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.13.1] C:\Users\dbfan\.gradle\caches\8.9\transforms\70b3f990f2a358ec7abe512f9d7bd339\transformed\core-1.13.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.13.1] C:\Users\dbfan\.gradle\caches\8.9\transforms\70b3f990f2a358ec7abe512f9d7bd339\transformed\core-1.13.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.2] C:\Users\dbfan\.gradle\caches\8.9\transforms\a14c068807afd063dbdcaaff29dc996a\transformed\lifecycle-livedata-core-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.2] C:\Users\dbfan\.gradle\caches\8.9\transforms\a14c068807afd063dbdcaaff29dc996a\transformed\lifecycle-livedata-core-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.2] C:\Users\dbfan\.gradle\caches\8.9\transforms\0dd7080b2eade91e41a1ef37bf793efd\transformed\lifecycle-livedata-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.2] C:\Users\dbfan\.gradle\caches\8.9\transforms\0dd7080b2eade91e41a1ef37bf793efd\transformed\lifecycle-livedata-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.2] C:\Users\dbfan\.gradle\caches\8.9\transforms\34b565954a605bf789fde76e27a88863\transformed\lifecycle-viewmodel-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.2] C:\Users\dbfan\.gradle\caches\8.9\transforms\34b565954a605bf789fde76e27a88863\transformed\lifecycle-viewmodel-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.2] C:\Users\dbfan\.gradle\caches\8.9\transforms\15ee0cc20d2b4e8b4d44bfa462f936cb\transformed\lifecycle-runtime-2.6.2\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.2] C:\Users\dbfan\.gradle\caches\8.9\transforms\15ee0cc20d2b4e8b4d44bfa462f936cb\transformed\lifecycle-runtime-2.6.2\AndroidManifest.xml:5:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\dbfan\.gradle\caches\8.9\transforms\3cc97ebfe7744cdd25221276d629719a\transformed\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\dbfan\.gradle\caches\8.9\transforms\3cc97ebfe7744cdd25221276d629719a\transformed\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\dbfan\.gradle\caches\8.9\transforms\9fb4a45843cc23ee3948d9068b41f069\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\dbfan\.gradle\caches\8.9\transforms\9fb4a45843cc23ee3948d9068b41f069\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\dbfan\.gradle\caches\8.9\transforms\5ca943682f7a7a45d4cf1c630ca2c47a\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\dbfan\.gradle\caches\8.9\transforms\5ca943682f7a7a45d4cf1c630ca2c47a\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\dbfan\.gradle\caches\8.9\transforms\ae0ee6bb1706b3c0bca772088b488e23\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\dbfan\.gradle\caches\8.9\transforms\ae0ee6bb1706b3c0bca772088b488e23\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\dbfan\.gradle\caches\8.9\transforms\cafdbbf9d8bab897876ac8899bd47d90\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\dbfan\.gradle\caches\8.9\transforms\cafdbbf9d8bab897876ac8899bd47d90\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\dbfan\.gradle\caches\8.9\transforms\4c5b1f9970c70172c2f070abbd224fd8\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\dbfan\.gradle\caches\8.9\transforms\4c5b1f9970c70172c2f070abbd224fd8\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\dbfan\.gradle\caches\8.9\transforms\fadf5532e2648a32156659da2b19d844\transformed\core-runtime-2.2.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\dbfan\.gradle\caches\8.9\transforms\fadf5532e2648a32156659da2b19d844\transformed\core-runtime-2.2.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.4.0] C:\Users\dbfan\.gradle\caches\8.9\transforms\08917794067ca257c1b3579abb95d434\transformed\jetified-annotation-experimental-1.4.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.4.0] C:\Users\dbfan\.gradle\caches\8.9\transforms\08917794067ca257c1b3579abb95d434\transformed\jetified-annotation-experimental-1.4.0\AndroidManifest.xml:5:5-44
+INJECTED from C:\downloads\my proggraming\flutter\blogverse\android\app\src\main\AndroidManifest.xml
+INJECTED from C:\downloads\my proggraming\flutter\blogverse\android\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\downloads\my proggraming\flutter\blogverse\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\downloads\my proggraming\flutter\blogverse\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\downloads\my proggraming\flutter\blogverse\android\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\downloads\my proggraming\flutter\blogverse\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\downloads\my proggraming\flutter\blogverse\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\downloads\my proggraming\flutter\blogverse\android\app\src\main\AndroidManifest.xml
+activity#com.example.blogverse.MainActivity
+ADDED from C:\downloads\my proggraming\flutter\blogverse\android\app\src\main\AndroidManifest.xml:7:9-28:20
+	android:launchMode
+		ADDED from C:\downloads\my proggraming\flutter\blogverse\android\app\src\main\AndroidManifest.xml:10:13-43
+	android:hardwareAccelerated
+		ADDED from C:\downloads\my proggraming\flutter\blogverse\android\app\src\main\AndroidManifest.xml:14:13-47
+	android:windowSoftInputMode
+		ADDED from C:\downloads\my proggraming\flutter\blogverse\android\app\src\main\AndroidManifest.xml:15:13-55
+	android:exported
+		ADDED from C:\downloads\my proggraming\flutter\blogverse\android\app\src\main\AndroidManifest.xml:9:13-36
+	android:configChanges
+		ADDED from C:\downloads\my proggraming\flutter\blogverse\android\app\src\main\AndroidManifest.xml:13:13-163
+	android:theme
+		ADDED from C:\downloads\my proggraming\flutter\blogverse\android\app\src\main\AndroidManifest.xml:12:13-47
+	android:taskAffinity
+		ADDED from C:\downloads\my proggraming\flutter\blogverse\android\app\src\main\AndroidManifest.xml:11:13-36
+	android:name
+		ADDED from C:\downloads\my proggraming\flutter\blogverse\android\app\src\main\AndroidManifest.xml:8:13-41
+meta-data#io.flutter.embedding.android.NormalTheme
+ADDED from C:\downloads\my proggraming\flutter\blogverse\android\app\src\main\AndroidManifest.xml:20:13-23:17
+	android:resource
+		ADDED from C:\downloads\my proggraming\flutter\blogverse\android\app\src\main\AndroidManifest.xml:22:15-52
+	android:name
+		ADDED from C:\downloads\my proggraming\flutter\blogverse\android\app\src\main\AndroidManifest.xml:21:15-70
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\downloads\my proggraming\flutter\blogverse\android\app\src\main\AndroidManifest.xml:24:13-27:29
+action#android.intent.action.MAIN
+ADDED from C:\downloads\my proggraming\flutter\blogverse\android\app\src\main\AndroidManifest.xml:25:17-68
+	android:name
+		ADDED from C:\downloads\my proggraming\flutter\blogverse\android\app\src\main\AndroidManifest.xml:25:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\downloads\my proggraming\flutter\blogverse\android\app\src\main\AndroidManifest.xml:26:17-76
+	android:name
+		ADDED from C:\downloads\my proggraming\flutter\blogverse\android\app\src\main\AndroidManifest.xml:26:27-74
+meta-data#flutterEmbedding
+ADDED from C:\downloads\my proggraming\flutter\blogverse\android\app\src\main\AndroidManifest.xml:31:9-33:33
+	android:value
+		ADDED from C:\downloads\my proggraming\flutter\blogverse\android\app\src\main\AndroidManifest.xml:33:13-30
+	android:name
+		ADDED from C:\downloads\my proggraming\flutter\blogverse\android\app\src\main\AndroidManifest.xml:32:13-44
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from [:file_picker] C:\Users\dbfan\AppData\Local\Pub\Cache\hosted\pub.dev\file_picker-5.5.0\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:7:5-80
+	android:name
+		ADDED from [:file_picker] C:\Users\dbfan\AppData\Local\Pub\Cache\hosted\pub.dev\file_picker-5.5.0\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:7:22-77
+intent#action:name:android.intent.action.GET_CONTENT+data:mimeType:*/*
+ADDED from [:file_picker] C:\Users\dbfan\AppData\Local\Pub\Cache\hosted\pub.dev\file_picker-5.5.0\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:10:9-14:18
+action#android.intent.action.GET_CONTENT
+ADDED from [:file_picker] C:\Users\dbfan\AppData\Local\Pub\Cache\hosted\pub.dev\file_picker-5.5.0\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:11:13-72
+	android:name
+		ADDED from [:file_picker] C:\Users\dbfan\AppData\Local\Pub\Cache\hosted\pub.dev\file_picker-5.5.0\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:11:21-69
+activity#io.flutter.plugins.urllauncher.WebViewActivity
+ADDED from [:url_launcher_android] C:\Users\dbfan\AppData\Local\Pub\Cache\hosted\pub.dev\url_launcher_android-6.3.9\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:8:9-11:74
+	android:exported
+		ADDED from [:url_launcher_android] C:\Users\dbfan\AppData\Local\Pub\Cache\hosted\pub.dev\url_launcher_android-6.3.9\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:10:13-37
+	android:theme
+		ADDED from [:url_launcher_android] C:\Users\dbfan\AppData\Local\Pub\Cache\hosted\pub.dev\url_launcher_android-6.3.9\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:11:13-71
+	android:name
+		ADDED from [:url_launcher_android] C:\Users\dbfan\AppData\Local\Pub\Cache\hosted\pub.dev\url_launcher_android-6.3.9\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:9:13-74
+uses-library#androidx.window.extensions
+ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\dbfan\.gradle\caches\8.9\transforms\7b0e5f1c855adb3d663e2c810e7aceb8\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:25:9-27:40
+	android:required
+		ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\dbfan\.gradle\caches\8.9\transforms\7b0e5f1c855adb3d663e2c810e7aceb8\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\dbfan\.gradle\caches\8.9\transforms\7b0e5f1c855adb3d663e2c810e7aceb8\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:26:13-54
+uses-library#androidx.window.sidecar
+ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\dbfan\.gradle\caches\8.9\transforms\7b0e5f1c855adb3d663e2c810e7aceb8\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:28:9-30:40
+	android:required
+		ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\dbfan\.gradle\caches\8.9\transforms\7b0e5f1c855adb3d663e2c810e7aceb8\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:30:13-37
+	android:name
+		ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\dbfan\.gradle\caches\8.9\transforms\7b0e5f1c855adb3d663e2c810e7aceb8\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:29:13-51
+permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.1] C:\Users\dbfan\.gradle\caches\8.9\transforms\70b3f990f2a358ec7abe512f9d7bd339\transformed\core-1.13.1\AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.13.1] C:\Users\dbfan\.gradle\caches\8.9\transforms\70b3f990f2a358ec7abe512f9d7bd339\transformed\core-1.13.1\AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.13.1] C:\Users\dbfan\.gradle\caches\8.9\transforms\70b3f990f2a358ec7abe512f9d7bd339\transformed\core-1.13.1\AndroidManifest.xml:23:9-81
+permission#com.example.blogverse.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.1] C:\Users\dbfan\.gradle\caches\8.9\transforms\70b3f990f2a358ec7abe512f9d7bd339\transformed\core-1.13.1\AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.13.1] C:\Users\dbfan\.gradle\caches\8.9\transforms\70b3f990f2a358ec7abe512f9d7bd339\transformed\core-1.13.1\AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.13.1] C:\Users\dbfan\.gradle\caches\8.9\transforms\70b3f990f2a358ec7abe512f9d7bd339\transformed\core-1.13.1\AndroidManifest.xml:23:9-81
+uses-permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.1] C:\Users\dbfan\.gradle\caches\8.9\transforms\70b3f990f2a358ec7abe512f9d7bd339\transformed\core-1.13.1\AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.13.1] C:\Users\dbfan\.gradle\caches\8.9\transforms\70b3f990f2a358ec7abe512f9d7bd339\transformed\core-1.13.1\AndroidManifest.xml:26:22-94
+uses-permission#com.example.blogverse.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.1] C:\Users\dbfan\.gradle\caches\8.9\transforms\70b3f990f2a358ec7abe512f9d7bd339\transformed\core-1.13.1\AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.13.1] C:\Users\dbfan\.gradle\caches\8.9\transforms\70b3f990f2a358ec7abe512f9d7bd339\transformed\core-1.13.1\AndroidManifest.xml:26:22-94
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\dbfan\.gradle\caches\8.9\transforms\9fb4a45843cc23ee3948d9068b41f069\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\dbfan\.gradle\caches\8.9\transforms\5ca943682f7a7a45d4cf1c630ca2c47a\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\dbfan\.gradle\caches\8.9\transforms\5ca943682f7a7a45d4cf1c630ca2c47a\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\dbfan\.gradle\caches\8.9\transforms\9fb4a45843cc23ee3948d9068b41f069\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:28:13-31
+	android:authorities
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\dbfan\.gradle\caches\8.9\transforms\9fb4a45843cc23ee3948d9068b41f069\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:26:13-68
+	android:exported
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\dbfan\.gradle\caches\8.9\transforms\9fb4a45843cc23ee3948d9068b41f069\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\dbfan\.gradle\caches\8.9\transforms\9fb4a45843cc23ee3948d9068b41f069\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:25:13-67
+meta-data#androidx.profileinstaller.ProfileInstallerInitializer
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\dbfan\.gradle\caches\8.9\transforms\9fb4a45843cc23ee3948d9068b41f069\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\dbfan\.gradle\caches\8.9\transforms\9fb4a45843cc23ee3948d9068b41f069\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\dbfan\.gradle\caches\8.9\transforms\9fb4a45843cc23ee3948d9068b41f069\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:30:17-85
+receiver#androidx.profileinstaller.ProfileInstallReceiver
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\dbfan\.gradle\caches\8.9\transforms\9fb4a45843cc23ee3948d9068b41f069\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:34:9-52:20
+	android:enabled
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\dbfan\.gradle\caches\8.9\transforms\9fb4a45843cc23ee3948d9068b41f069\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:37:13-35
+	android:exported
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\dbfan\.gradle\caches\8.9\transforms\9fb4a45843cc23ee3948d9068b41f069\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:38:13-36
+	android:permission
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\dbfan\.gradle\caches\8.9\transforms\9fb4a45843cc23ee3948d9068b41f069\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:39:13-57
+	android:directBootAware
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\dbfan\.gradle\caches\8.9\transforms\9fb4a45843cc23ee3948d9068b41f069\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:36:13-44
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\dbfan\.gradle\caches\8.9\transforms\9fb4a45843cc23ee3948d9068b41f069\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:35:13-76
+intent-filter#action:name:androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\dbfan\.gradle\caches\8.9\transforms\9fb4a45843cc23ee3948d9068b41f069\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:40:13-42:29
+action#androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\dbfan\.gradle\caches\8.9\transforms\9fb4a45843cc23ee3948d9068b41f069\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:41:17-91
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\dbfan\.gradle\caches\8.9\transforms\9fb4a45843cc23ee3948d9068b41f069\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:41:25-88
+intent-filter#action:name:androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\dbfan\.gradle\caches\8.9\transforms\9fb4a45843cc23ee3948d9068b41f069\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:43:13-45:29
+action#androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\dbfan\.gradle\caches\8.9\transforms\9fb4a45843cc23ee3948d9068b41f069\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:44:17-85
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\dbfan\.gradle\caches\8.9\transforms\9fb4a45843cc23ee3948d9068b41f069\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:44:25-82
+intent-filter#action:name:androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\dbfan\.gradle\caches\8.9\transforms\9fb4a45843cc23ee3948d9068b41f069\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:46:13-48:29
+action#androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\dbfan\.gradle\caches\8.9\transforms\9fb4a45843cc23ee3948d9068b41f069\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:47:17-88
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\dbfan\.gradle\caches\8.9\transforms\9fb4a45843cc23ee3948d9068b41f069\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:47:25-85
+intent-filter#action:name:androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\dbfan\.gradle\caches\8.9\transforms\9fb4a45843cc23ee3948d9068b41f069\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:49:13-51:29
+action#androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\dbfan\.gradle\caches\8.9\transforms\9fb4a45843cc23ee3948d9068b41f069\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:50:17-95
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\dbfan\.gradle\caches\8.9\transforms\9fb4a45843cc23ee3948d9068b41f069\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:50:25-92

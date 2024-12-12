@@ -1,0 +1,202 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.blogverse"
+4    android:versionCode="1"
+5    android:versionName="0.1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+8-->C:\downloads\my proggraming\flutter\blogverse\android\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="34" />
+9-->C:\downloads\my proggraming\flutter\blogverse\android\app\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->C:\downloads\my proggraming\flutter\blogverse\android\app\src\main\AndroidManifest.xml:2:13-74
+11-->C:\downloads\my proggraming\flutter\blogverse\android\app\src\main\AndroidManifest.xml:2:30-72
+12    <!--
+13         Required to query activities that can process text, see:
+14         https://developer.android.com/training/package-visibility and
+15         https://developer.android.com/reference/android/content/Intent#ACTION_PROCESS_TEXT.
+16
+17         In particular, this is used by the Flutter engine in io.flutter.plugin.text.ProcessTextPlugin.
+18    -->
+19    <queries>
+19-->C:\downloads\my proggraming\flutter\blogverse\android\app\src\main\AndroidManifest.xml:40:5-45:15
+20        <intent>
+20-->C:\downloads\my proggraming\flutter\blogverse\android\app\src\main\AndroidManifest.xml:41:9-44:18
+21            <action android:name="android.intent.action.PROCESS_TEXT" />
+21-->C:\downloads\my proggraming\flutter\blogverse\android\app\src\main\AndroidManifest.xml:42:13-72
+21-->C:\downloads\my proggraming\flutter\blogverse\android\app\src\main\AndroidManifest.xml:42:21-70
+22
+23            <data android:mimeType="text/plain" />
+23-->C:\downloads\my proggraming\flutter\blogverse\android\app\src\main\AndroidManifest.xml:43:13-50
+23-->C:\downloads\my proggraming\flutter\blogverse\android\app\src\main\AndroidManifest.xml:43:19-48
+24        </intent>
+25        <intent>
+25-->[:file_picker] C:\Users\dbfan\AppData\Local\Pub\Cache\hosted\pub.dev\file_picker-5.5.0\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:10:9-14:18
+26            <action android:name="android.intent.action.GET_CONTENT" />
+26-->[:file_picker] C:\Users\dbfan\AppData\Local\Pub\Cache\hosted\pub.dev\file_picker-5.5.0\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:11:13-72
+26-->[:file_picker] C:\Users\dbfan\AppData\Local\Pub\Cache\hosted\pub.dev\file_picker-5.5.0\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:11:21-69
+27
+28            <data android:mimeType="*/*" />
+28-->C:\downloads\my proggraming\flutter\blogverse\android\app\src\main\AndroidManifest.xml:43:13-50
+28-->C:\downloads\my proggraming\flutter\blogverse\android\app\src\main\AndroidManifest.xml:43:19-48
+29        </intent>
+30    </queries>
+31
+32    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+32-->[:file_picker] C:\Users\dbfan\AppData\Local\Pub\Cache\hosted\pub.dev\file_picker-5.5.0\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:7:5-80
+32-->[:file_picker] C:\Users\dbfan\AppData\Local\Pub\Cache\hosted\pub.dev\file_picker-5.5.0\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:7:22-77
+33
+34    <permission
+34-->[androidx.core:core:1.13.1] C:\Users\dbfan\.gradle\caches\8.9\transforms\70b3f990f2a358ec7abe512f9d7bd339\transformed\core-1.13.1\AndroidManifest.xml:22:5-24:47
+35        android:name="com.example.blogverse.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+35-->[androidx.core:core:1.13.1] C:\Users\dbfan\.gradle\caches\8.9\transforms\70b3f990f2a358ec7abe512f9d7bd339\transformed\core-1.13.1\AndroidManifest.xml:23:9-81
+36        android:protectionLevel="signature" />
+36-->[androidx.core:core:1.13.1] C:\Users\dbfan\.gradle\caches\8.9\transforms\70b3f990f2a358ec7abe512f9d7bd339\transformed\core-1.13.1\AndroidManifest.xml:24:9-44
+37
+38    <uses-permission android:name="com.example.blogverse.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" />
+38-->[androidx.core:core:1.13.1] C:\Users\dbfan\.gradle\caches\8.9\transforms\70b3f990f2a358ec7abe512f9d7bd339\transformed\core-1.13.1\AndroidManifest.xml:26:5-97
+38-->[androidx.core:core:1.13.1] C:\Users\dbfan\.gradle\caches\8.9\transforms\70b3f990f2a358ec7abe512f9d7bd339\transformed\core-1.13.1\AndroidManifest.xml:26:22-94
+39
+40    <application
+41        android:name="android.app.Application"
+41-->C:\downloads\my proggraming\flutter\blogverse\android\app\src\main\AndroidManifest.xml:5:9-42
+42        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+42-->[androidx.core:core:1.13.1] C:\Users\dbfan\.gradle\caches\8.9\transforms\70b3f990f2a358ec7abe512f9d7bd339\transformed\core-1.13.1\AndroidManifest.xml:28:18-86
+43        android:icon="@mipmap/ic_launcher"
+43-->C:\downloads\my proggraming\flutter\blogverse\android\app\src\main\AndroidManifest.xml:6:9-43
+44        android:label="blogverse" >
+44-->C:\downloads\my proggraming\flutter\blogverse\android\app\src\main\AndroidManifest.xml:4:9-34
+45        <activity
+45-->C:\downloads\my proggraming\flutter\blogverse\android\app\src\main\AndroidManifest.xml:7:9-28:20
+46            android:name="com.example.blogverse.MainActivity"
+46-->C:\downloads\my proggraming\flutter\blogverse\android\app\src\main\AndroidManifest.xml:8:13-41
+47            android:configChanges="orientation|keyboardHidden|keyboard|screenSize|smallestScreenSize|locale|layoutDirection|fontScale|screenLayout|density|uiMode"
+47-->C:\downloads\my proggraming\flutter\blogverse\android\app\src\main\AndroidManifest.xml:13:13-163
+48            android:exported="true"
+48-->C:\downloads\my proggraming\flutter\blogverse\android\app\src\main\AndroidManifest.xml:9:13-36
+49            android:hardwareAccelerated="true"
+49-->C:\downloads\my proggraming\flutter\blogverse\android\app\src\main\AndroidManifest.xml:14:13-47
+50            android:launchMode="singleTop"
+50-->C:\downloads\my proggraming\flutter\blogverse\android\app\src\main\AndroidManifest.xml:10:13-43
+51            android:taskAffinity=""
+51-->C:\downloads\my proggraming\flutter\blogverse\android\app\src\main\AndroidManifest.xml:11:13-36
+52            android:theme="@style/LaunchTheme"
+52-->C:\downloads\my proggraming\flutter\blogverse\android\app\src\main\AndroidManifest.xml:12:13-47
+53            android:windowSoftInputMode="adjustResize" >
+53-->C:\downloads\my proggraming\flutter\blogverse\android\app\src\main\AndroidManifest.xml:15:13-55
+54
+55            <!--
+56                 Specifies an Android theme to apply to this Activity as soon as
+57                 the Android process has started. This theme is visible to the user
+58                 while the Flutter UI initializes. After that, this theme continues
+59                 to determine the Window background behind the Flutter UI.
+60            -->
+61            <meta-data
+61-->C:\downloads\my proggraming\flutter\blogverse\android\app\src\main\AndroidManifest.xml:20:13-23:17
+62                android:name="io.flutter.embedding.android.NormalTheme"
+62-->C:\downloads\my proggraming\flutter\blogverse\android\app\src\main\AndroidManifest.xml:21:15-70
+63                android:resource="@style/NormalTheme" />
+63-->C:\downloads\my proggraming\flutter\blogverse\android\app\src\main\AndroidManifest.xml:22:15-52
+64
+65            <intent-filter>
+65-->C:\downloads\my proggraming\flutter\blogverse\android\app\src\main\AndroidManifest.xml:24:13-27:29
+66                <action android:name="android.intent.action.MAIN" />
+66-->C:\downloads\my proggraming\flutter\blogverse\android\app\src\main\AndroidManifest.xml:25:17-68
+66-->C:\downloads\my proggraming\flutter\blogverse\android\app\src\main\AndroidManifest.xml:25:25-66
+67
+68                <category android:name="android.intent.category.LAUNCHER" />
+68-->C:\downloads\my proggraming\flutter\blogverse\android\app\src\main\AndroidManifest.xml:26:17-76
+68-->C:\downloads\my proggraming\flutter\blogverse\android\app\src\main\AndroidManifest.xml:26:27-74
+69            </intent-filter>
+70        </activity>
+71        <!--
+72             Don't delete the meta-data below.
+73             This is used by the Flutter tool to generate GeneratedPluginRegistrant.java
+74        -->
+75        <meta-data
+75-->C:\downloads\my proggraming\flutter\blogverse\android\app\src\main\AndroidManifest.xml:31:9-33:33
+76            android:name="flutterEmbedding"
+76-->C:\downloads\my proggraming\flutter\blogverse\android\app\src\main\AndroidManifest.xml:32:13-44
+77            android:value="2" />
+77-->C:\downloads\my proggraming\flutter\blogverse\android\app\src\main\AndroidManifest.xml:33:13-30
+78
+79        <activity
+79-->[:url_launcher_android] C:\Users\dbfan\AppData\Local\Pub\Cache\hosted\pub.dev\url_launcher_android-6.3.9\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:8:9-11:74
+80            android:name="io.flutter.plugins.urllauncher.WebViewActivity"
+80-->[:url_launcher_android] C:\Users\dbfan\AppData\Local\Pub\Cache\hosted\pub.dev\url_launcher_android-6.3.9\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:9:13-74
+81            android:exported="false"
+81-->[:url_launcher_android] C:\Users\dbfan\AppData\Local\Pub\Cache\hosted\pub.dev\url_launcher_android-6.3.9\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:10:13-37
+82            android:theme="@android:style/Theme.NoTitleBar.Fullscreen" />
+82-->[:url_launcher_android] C:\Users\dbfan\AppData\Local\Pub\Cache\hosted\pub.dev\url_launcher_android-6.3.9\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:11:13-71
+83
+84        <uses-library
+84-->[androidx.window:window:1.0.0-beta04] C:\Users\dbfan\.gradle\caches\8.9\transforms\7b0e5f1c855adb3d663e2c810e7aceb8\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:25:9-27:40
+85            android:name="androidx.window.extensions"
+85-->[androidx.window:window:1.0.0-beta04] C:\Users\dbfan\.gradle\caches\8.9\transforms\7b0e5f1c855adb3d663e2c810e7aceb8\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:26:13-54
+86            android:required="false" />
+86-->[androidx.window:window:1.0.0-beta04] C:\Users\dbfan\.gradle\caches\8.9\transforms\7b0e5f1c855adb3d663e2c810e7aceb8\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:27:13-37
+87        <uses-library
+87-->[androidx.window:window:1.0.0-beta04] C:\Users\dbfan\.gradle\caches\8.9\transforms\7b0e5f1c855adb3d663e2c810e7aceb8\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:28:9-30:40
+88            android:name="androidx.window.sidecar"
+88-->[androidx.window:window:1.0.0-beta04] C:\Users\dbfan\.gradle\caches\8.9\transforms\7b0e5f1c855adb3d663e2c810e7aceb8\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:29:13-51
+89            android:required="false" />
+89-->[androidx.window:window:1.0.0-beta04] C:\Users\dbfan\.gradle\caches\8.9\transforms\7b0e5f1c855adb3d663e2c810e7aceb8\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:30:13-37
+90
+91        <provider
+91-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\dbfan\.gradle\caches\8.9\transforms\9fb4a45843cc23ee3948d9068b41f069\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:24:9-32:20
+92            android:name="androidx.startup.InitializationProvider"
+92-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\dbfan\.gradle\caches\8.9\transforms\9fb4a45843cc23ee3948d9068b41f069\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:25:13-67
+93            android:authorities="com.example.blogverse.androidx-startup"
+93-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\dbfan\.gradle\caches\8.9\transforms\9fb4a45843cc23ee3948d9068b41f069\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:26:13-68
+94            android:exported="false" >
+94-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\dbfan\.gradle\caches\8.9\transforms\9fb4a45843cc23ee3948d9068b41f069\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:27:13-37
+95            <meta-data
+95-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\dbfan\.gradle\caches\8.9\transforms\9fb4a45843cc23ee3948d9068b41f069\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:29:13-31:52
+96                android:name="androidx.profileinstaller.ProfileInstallerInitializer"
+96-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\dbfan\.gradle\caches\8.9\transforms\9fb4a45843cc23ee3948d9068b41f069\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:30:17-85
+97                android:value="androidx.startup" />
+97-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\dbfan\.gradle\caches\8.9\transforms\9fb4a45843cc23ee3948d9068b41f069\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:31:17-49
+98        </provider>
+99
+100        <receiver
+100-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\dbfan\.gradle\caches\8.9\transforms\9fb4a45843cc23ee3948d9068b41f069\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:34:9-52:20
+101            android:name="androidx.profileinstaller.ProfileInstallReceiver"
+101-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\dbfan\.gradle\caches\8.9\transforms\9fb4a45843cc23ee3948d9068b41f069\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:35:13-76
+102            android:directBootAware="false"
+102-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\dbfan\.gradle\caches\8.9\transforms\9fb4a45843cc23ee3948d9068b41f069\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:36:13-44
+103            android:enabled="true"
+103-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\dbfan\.gradle\caches\8.9\transforms\9fb4a45843cc23ee3948d9068b41f069\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:37:13-35
+104            android:exported="true"
+104-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\dbfan\.gradle\caches\8.9\transforms\9fb4a45843cc23ee3948d9068b41f069\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:38:13-36
+105            android:permission="android.permission.DUMP" >
+105-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\dbfan\.gradle\caches\8.9\transforms\9fb4a45843cc23ee3948d9068b41f069\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:39:13-57
+106            <intent-filter>
+106-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\dbfan\.gradle\caches\8.9\transforms\9fb4a45843cc23ee3948d9068b41f069\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:40:13-42:29
+107                <action android:name="androidx.profileinstaller.action.INSTALL_PROFILE" />
+107-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\dbfan\.gradle\caches\8.9\transforms\9fb4a45843cc23ee3948d9068b41f069\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:41:17-91
+107-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\dbfan\.gradle\caches\8.9\transforms\9fb4a45843cc23ee3948d9068b41f069\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:41:25-88
+108            </intent-filter>
+109            <intent-filter>
+109-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\dbfan\.gradle\caches\8.9\transforms\9fb4a45843cc23ee3948d9068b41f069\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:43:13-45:29
+110                <action android:name="androidx.profileinstaller.action.SKIP_FILE" />
+110-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\dbfan\.gradle\caches\8.9\transforms\9fb4a45843cc23ee3948d9068b41f069\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:44:17-85
+110-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\dbfan\.gradle\caches\8.9\transforms\9fb4a45843cc23ee3948d9068b41f069\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:44:25-82
+111            </intent-filter>
+112            <intent-filter>
+112-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\dbfan\.gradle\caches\8.9\transforms\9fb4a45843cc23ee3948d9068b41f069\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:46:13-48:29
+113                <action android:name="androidx.profileinstaller.action.SAVE_PROFILE" />
+113-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\dbfan\.gradle\caches\8.9\transforms\9fb4a45843cc23ee3948d9068b41f069\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:47:17-88
+113-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\dbfan\.gradle\caches\8.9\transforms\9fb4a45843cc23ee3948d9068b41f069\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:47:25-85
+114            </intent-filter>
+115            <intent-filter>
+115-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\dbfan\.gradle\caches\8.9\transforms\9fb4a45843cc23ee3948d9068b41f069\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:49:13-51:29
+116                <action android:name="androidx.profileinstaller.action.BENCHMARK_OPERATION" />
+116-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\dbfan\.gradle\caches\8.9\transforms\9fb4a45843cc23ee3948d9068b41f069\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:50:17-95
+116-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\dbfan\.gradle\caches\8.9\transforms\9fb4a45843cc23ee3948d9068b41f069\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:50:25-92
+117            </intent-filter>
+118        </receiver>
+119    </application>
+120
+121</manifest>

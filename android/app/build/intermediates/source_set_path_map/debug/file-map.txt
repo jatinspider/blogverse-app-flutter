@@ -1,0 +1,27 @@
+com.example.blogverse.app-jetified-annotation-experimental-1.4.0-0 C:\Users\dbfan\.gradle\caches\8.9\transforms\08917794067ca257c1b3579abb95d434\transformed\jetified-annotation-experimental-1.4.0\res
+com.example.blogverse.app-lifecycle-livedata-2.6.2-1 C:\Users\dbfan\.gradle\caches\8.9\transforms\0dd7080b2eade91e41a1ef37bf793efd\transformed\lifecycle-livedata-2.6.2\res
+com.example.blogverse.app-lifecycle-runtime-2.6.2-2 C:\Users\dbfan\.gradle\caches\8.9\transforms\15ee0cc20d2b4e8b4d44bfa462f936cb\transformed\lifecycle-runtime-2.6.2\res
+com.example.blogverse.app-lifecycle-viewmodel-2.6.2-3 C:\Users\dbfan\.gradle\caches\8.9\transforms\34b565954a605bf789fde76e27a88863\transformed\lifecycle-viewmodel-2.6.2\res
+com.example.blogverse.app-jetified-startup-runtime-1.1.1-4 C:\Users\dbfan\.gradle\caches\8.9\transforms\5ca943682f7a7a45d4cf1c630ca2c47a\transformed\jetified-startup-runtime-1.1.1\res
+com.example.blogverse.app-jetified-window-java-1.0.0-beta04-5 C:\Users\dbfan\.gradle\caches\8.9\transforms\6132af5deeee7e29a56a30c78a7fdcd5\transformed\jetified-window-java-1.0.0-beta04\res
+com.example.blogverse.app-core-1.13.1-6 C:\Users\dbfan\.gradle\caches\8.9\transforms\70b3f990f2a358ec7abe512f9d7bd339\transformed\core-1.13.1\res
+com.example.blogverse.app-jetified-window-1.0.0-beta04-7 C:\Users\dbfan\.gradle\caches\8.9\transforms\7b0e5f1c855adb3d663e2c810e7aceb8\transformed\jetified-window-1.0.0-beta04\res
+com.example.blogverse.app-jetified-profileinstaller-1.3.0-8 C:\Users\dbfan\.gradle\caches\8.9\transforms\9fb4a45843cc23ee3948d9068b41f069\transformed\jetified-profileinstaller-1.3.0\res
+com.example.blogverse.app-lifecycle-livedata-core-2.6.2-9 C:\Users\dbfan\.gradle\caches\8.9\transforms\a14c068807afd063dbdcaaff29dc996a\transformed\lifecycle-livedata-core-2.6.2\res
+com.example.blogverse.app-browser-1.8.0-10 C:\Users\dbfan\.gradle\caches\8.9\transforms\e82d88bd5da43dd629176ea510ee30e6\transformed\browser-1.8.0\res
+com.example.blogverse.app-core-runtime-2.2.0-11 C:\Users\dbfan\.gradle\caches\8.9\transforms\fadf5532e2648a32156659da2b19d844\transformed\core-runtime-2.2.0\res
+com.example.blogverse.app-packaged_res-12 C:\Users\dbfan\AppData\Local\Pub\Cache\hosted\pub.dev\device_info_plus-10.1.2\android\build\intermediates\packaged_res\debug
+com.example.blogverse.app-packaged_res-13 C:\Users\dbfan\AppData\Local\Pub\Cache\hosted\pub.dev\file_picker-5.5.0\android\build\intermediates\packaged_res\debug
+com.example.blogverse.app-packaged_res-14 C:\Users\dbfan\AppData\Local\Pub\Cache\hosted\pub.dev\flutter_plugin_android_lifecycle-2.0.22\android\build\intermediates\packaged_res\debug
+com.example.blogverse.app-packaged_res-15 C:\Users\dbfan\AppData\Local\Pub\Cache\hosted\pub.dev\flutter_web_auth-0.5.0\android\build\intermediates\packaged_res\debug
+com.example.blogverse.app-packaged_res-16 C:\Users\dbfan\AppData\Local\Pub\Cache\hosted\pub.dev\flutter_web_auth_2-3.1.2\android\build\intermediates\packaged_res\debug
+com.example.blogverse.app-packaged_res-17 C:\Users\dbfan\AppData\Local\Pub\Cache\hosted\pub.dev\package_info_plus-8.1.1\android\build\intermediates\packaged_res\debug
+com.example.blogverse.app-packaged_res-18 C:\Users\dbfan\AppData\Local\Pub\Cache\hosted\pub.dev\path_provider_android-2.2.10\android\build\intermediates\packaged_res\debug
+com.example.blogverse.app-packaged_res-19 C:\Users\dbfan\AppData\Local\Pub\Cache\hosted\pub.dev\url_launcher_android-6.3.9\android\build\intermediates\packaged_res\debug
+com.example.blogverse.app-pngs-20 C:\downloads\my proggraming\flutter\blogverse\android\app\build\generated\res\pngs\debug
+com.example.blogverse.app-resValues-21 C:\downloads\my proggraming\flutter\blogverse\android\app\build\generated\res\resValues\debug
+com.example.blogverse.app-packageDebugResources-22 C:\downloads\my proggraming\flutter\blogverse\android\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.example.blogverse.app-packageDebugResources-23 C:\downloads\my proggraming\flutter\blogverse\android\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.example.blogverse.app-merged_res-24 C:\downloads\my proggraming\flutter\blogverse\android\app\build\intermediates\merged_res\debug
+com.example.blogverse.app-debug-25 C:\downloads\my proggraming\flutter\blogverse\android\app\src\debug\res
+com.example.blogverse.app-main-26 C:\downloads\my proggraming\flutter\blogverse\android\app\src\main\res

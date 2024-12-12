@@ -1,0 +1,20 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "Flutter Web",
+      "request": "launch",
+      "type": "dart",
+      "program": "lib/main.dart",
+      "cwd": "${workspaceFolder}",
+      "deviceId": "chrome",
+      "args": [
+        "--web-port=8080",
+        "--web-browser-launcher=brave"
+      ],
+      "env": {
+        "CHROME_EXECUTABLE": "C:/Program Files/BraveSoftware/Brave-Browser/Application/brave.exe" // Adjust this path based on your OS
+      }
+    }
+  ]
+}
